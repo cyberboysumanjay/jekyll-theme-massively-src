@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: writings
 title: Sumanjay's Blog
 description: I write my Heart out here.
 sitemap:

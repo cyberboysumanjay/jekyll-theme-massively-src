@@ -3,7 +3,7 @@ title:              Sumanjay
 bio:                'Blog of Sumanjay'
 description:        "I write my heart out here!"
 locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "writings" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 defaults:
