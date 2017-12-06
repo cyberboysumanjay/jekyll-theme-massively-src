@@ -1,7 +1,7 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              Sumanjay
+bio:                'Blog of Sumanjay'
+description:        "I write my heart out here!"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -35,15 +35,15 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+twitter:            cyberboysj
+facebook:           imsumanjay
+instagram:          sumanjay_
+github:             cyberboysumanjay
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           New Delhi, India
+phone:              8863911141
+email:              cyberboysumanjay@gmail.com
 
 # Gems
 gems:
