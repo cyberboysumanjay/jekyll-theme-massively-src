@@ -3,7 +3,7 @@ title:              Sumanjay
 bio:                'Blog of Sumanjay'
 description:        "I write my heart out here!"
 locale:             en_US
-baseurl: "writings" # the subpath of your site, e.g. /blog
+baseurl: "/writings" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 defaults:
@@ -11,12 +11,12 @@ defaults:
     path: ''
     type: posts
   values:
-    permalink: "/writings/:title/"
+    permalink: "/blog/:title/"
     layout: post
     author:
 
 # Jekyll
-permalink:          /writings/:title/
+permalink:          /blog/:title/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
@@ -54,7 +54,7 @@ gems:
   - jekyll-paginate
 
 paginate: 6
-paginate_path: "/writings/page:num/"
+paginate_path: "/blog/page:num/"
 
 jekyll-mentions:
     base_url: https://github.com
