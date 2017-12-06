@@ -31,10 +31,10 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   default
+disqus_shortname:   http-sumanjay-me-writings
 
 # Social
-analytics-id:       "default"
+analytics-id:       "UA-63601916-5"
 twitter:            cyberboysj
 facebook:           imsumanjay
 instagram:          sumanjay_
