@@ -34,19 +34,16 @@
 
           <article class="post featured">
             <header class="major">
-              <h2><a href="#">Importance of Blogs</a></h2>
-              <p>Blogs are really pretty awesome things. For one, they are a means to continually provide fresh,
-                dynamic content to your users. Also, they help your site get indexed and build authority as they are essential for SEO!
+              <h2><a href="#">Why Blogs</a></h2>
+              <p>Blogs are really pretty awesome things. For you, they are a means to continually provide fresh,
+                dynamic content. Also, it makes me stress free and I love writing these!
 							</p>
             </header>
 						<p>
-							Content fulfills the general population seeing your website and it likewise fulfills web indexes! Having solid content
-							influences your advertising to work a hell of a great deal simpler. Along these lines, the greatest bit of the promoting riddle is there. It's vital to thoroughly consider this technique before starting another crusade. This makes the whole content and advertising process more streamlined and will in the end enable your message to achieve your clients in a more effective manner. You ought not think little of the significance of giving yourself room. Having squirm room takes into consideration steady changes to your methodology en route.
-						<p>
+							This page will contain all my blog posts and I hope you will have a great time reading that. I made this site so to make my memories immortal.
 						</p>
-							At that point, rather than pushing something superfluous to your users, you can give them something that will stick.
-							You'll give them something they can identify with and be slanted to share with their companions and associates. Perhaps they'll even be slanted to work with you later on!
-							Having an advancement technique that is excessively unbending isn't astute on the grounds that there is no space for solid spontaneous creation. Having the capacity to change your advertising procedure will prompt more deals and arrangements.
+						<p>
+                            I wonder, how will I feel when I will read contents written by me here after 10-20 years from now. I'm sure it will force me to smile that day. So basically this page, right here infront of you is a future investment of mine that will make me smile. Happy Reading!
 						</p>
 
           </article>
@@ -57,7 +54,7 @@
 							<article>
 								<header>
 									<span class="date">{{ post.date | date_to_string }}</span>
-									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
+                                    <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
 								</header>
 								<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
 								<p>{{ post.excerpt }}</p>
@@ -66,12 +63,7 @@
 								</ul>
 							</article>
 							{% if mod3 == 0 %}
-							<article>
-								<header>
-									<h2><a href="#">Sponsored</h2>
-								</header>
-
-							</article>
+							
 							{% endif %}
 						{% endfor %}
 
