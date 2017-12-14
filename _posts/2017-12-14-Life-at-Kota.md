@@ -37,7 +37,7 @@ One fine day my mother asked me that can I leave this smartphone and internet th
 
 I concentrated on my studies at Kota after this incident which took first 3 weeks. I met few amazing friends, Gaurav Jaiswal is one of them and I’m still thankful to get IITians like him in my friend list. We had a great time there at Kota. Faculties at Kota have an unmatched style of teaching. Every Faculty is just awesome in their fields. I consider myself very lucky to get a chance to study at Kota and I believe that even if a student isn’t preparing for JEE he/she should study at Kota once.
 
-I don’t know where my anger towards Kota changed into love and today I wish I could relive my Kota life with my friends again.
+I don’t know when my anger towards Kota changed into love and today I wish I could relive my Kota life with my friends again.
 
 In the last month I managed to get a Nokia 1600 and used to talk with her, keeping in mind that I don’t waste any single minute of my studies. Coaching was around 10 minutes walking distance from my flat. So I used to walk and that 10 minutes of the morning used to power me for the whole day! She always requested me to choose a college in the same city where she was going. I promised her that I won’t disappoint her and our sacrifice won’t go in vain.
 
