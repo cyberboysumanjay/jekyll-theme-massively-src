@@ -3,7 +3,7 @@ layout: post
 title:  "Life at Kota"
 date:   2017-12-14
 excerpt: "Reliving those moments 🙃"
-image: "/images/pic02.jpg"
+image: "/images/vibrant.jpg"
 ---
 
 ## This is how I spent my life at Kota....
@@ -58,9 +58,9 @@ P.S: She broke up with me in our first Delhi meetup.
 
 <dt>Meanwhile I just opened the paper which she instructed me to open later.</dt>
 <dd>
-Rang the, noor tha, Jab kareeb tu tha</br>
-Ek jannat sa tha, yeh jahaan</br>
-Waqt ki ret pe kuch mere naam sa</br>
+Rang the, noor tha, Jab kareeb tu tha
+Ek jannat sa tha, yeh jahaan
+Waqt ki ret pe kuch mere naam sa
 Likh ke chhod gaya tu kahaan.
 </dd>
 </dl>
