@@ -19,7 +19,7 @@ That Evening I called her..
 
 I told her about the situation and she happily tried to convince me that this decision is for betterment of my future and I have to concentrate on my studies more as I’m in a critical situation right now and this will decide rest of my life. (I need not mention how much important JEE is for Indians).
 
-I was leaving for Kota on Thrusday and we decided to meet one last time in before leaving.
+I was leaving for Kota on Thrusday and we decided to meet one last time before leaving.
 
 And finally we met 😊
 
