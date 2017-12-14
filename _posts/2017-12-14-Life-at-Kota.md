@@ -39,7 +39,7 @@ I concentrated on my studies at Kota after this incident which took first 3 week
 
 I don’t know when my anger towards Kota changed into love and today I wish I could relive my Kota life with my friends again.
 
-In the last month I managed to get a Nokia 1600 and used to talk with her, keeping in mind that I don’t waste any single minute of my studies. Coaching was around 10 minutes walking distance from my flat. So I used to walk and that 10 minutes of the morning used to power me for the whole day! She always requested me to choose a college in the same city where she was going. I promised her that I won’t disappoint her and our sacrifice won’t go in vain.
+In the last month I managed to get a Nokia 1600 which has witnessed our conversations, keeping in mind that I don’t waste any single minute of my studies. Coaching was around 10 minutes walking distance from my flat. So I used to walk and that 10 minutes of the morning used to power me for the whole day! She always requested me to choose a college in the same city where she was going. I promised her that I won’t disappoint her and our sacrifice won’t go in vain.
 
 I came to know she got college in Delhi. She insisted me to please make sure we remain in the same city.
 
